@@ -1,4 +1,4 @@
-<p align="center">====== Tujuan ====== </p>
+<p align="center" bold>====== Tujuan ====== </p>
 Website ini bertujuan di buat atas dasar melatih kemampuan progaming saya, dan juga web ii di publish atas dasar pelatihan dari Tempat PKL(Praktek Kerja Lapangan) saya,
 yang dimana saya membuat sebuah web e-commerce dengan CRUD,dan juga Multi-Auth
 
